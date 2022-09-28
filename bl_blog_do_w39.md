@@ -53,7 +53,7 @@ The article states that:
 
 - They found that companies beeing succsessful, at beeing ambidextours, share some characteristics, the main one beeing: 
 
-! They seperate their explorative and ther exploitative units.
+> They seperate their explorative and ther exploitative units.
 
 
 
