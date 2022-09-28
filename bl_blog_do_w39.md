@@ -23,7 +23,7 @@ at the same time as it is innovatiing for the future.
 
 ### THE APPLE EXAMPLE
 - Look at Apple, and the book of Steve Jobs
-    - At the time is was the apple 2e which Apple made a lot of money on, then Steve Jobs came back and built the Macintosh
+    - At the time it was the apple 2e which Apple made a lot of money on, then Steve Jobs came back and built the Macintosh
     - So at the same time you had the old apple 2e and the more modern
     macintosh 
     - Wich means Apple was ambidextours, milikng the market with apple 2e
@@ -31,6 +31,12 @@ at the same time as it is innovatiing for the future.
     - Apple needed the apple 2e for income and keeping the     company alive, but they also needed to develop the macintosh, otherwise they probably would not have been alive today 
 
 How does an organization both do what is keeping them alive and innovate at the same time? 
+
+---
+
+# A Harvars busniess Reviev article on Ambidextours Organisations 
+
+Sorce: O'Reily, C.A. & Tushman, M.L. (2014). The Ambidextrous Organization. Harward Business Review. (Link)[https://hbr.org/2004/04/the-ambidextrous-organization]
 
 
 
