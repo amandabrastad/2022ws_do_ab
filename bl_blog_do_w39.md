@@ -36,7 +36,20 @@ How does an organization both do what is keeping them alive and innovate at the 
 
 ## A Harvars busniess Review article on Ambidextours Organisations 
 
-Sorce: O'Reily, C.A. & Tushman, M.L. (2014). The Ambidextrous Organization. Harward Business Review. [Link](https://hbr.org/2004/04/the-ambidextrous-organization) 
+Source: O'Reily, C.A. & Tushman, M.L. (2014). The Ambidextrous Organization. Harward Business Review. [Link](https://hbr.org/2004/04/the-ambidextrous-organization) 
+
+The article states that:
+- Managers need to be able to attend to their products at the same time as they are innovating for the future
+- Or in other words explore the new at the same time as exploting the old
+- A famous example of how not to do it is Kodak whom made the digital camera, but desided to stick with wath they knew, and not to use more time on the digital camera, as we all know that did not go werry well. 
+
+- A lot of companies fail to be ambidextours, but what is the sucsess formula? 
+- Some say it is cross-functional teams, other say you alternate between focusing on old and new
+- O'Reily and Tusman (2014) tests the theories!
+
+---
+
+## Sucsessfull Ambidextours Organisations according to [O'Reily and Tushman, 2014](https://hbr.org/2004/04/the-ambidextrous-organization)
 
 
 
