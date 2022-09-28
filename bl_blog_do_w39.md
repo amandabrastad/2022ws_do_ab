@@ -1,2 +1,4 @@
-# Blog for blended learning week 39 
+# Ambidextrous organizations
+
+## Blog for blended learning week 39 
 
