@@ -23,8 +23,7 @@ at the same time as it is innovatiing for the future.
 
 ### THE APPLE EXAMPLE
 - Look at Apple, and the book of Steve Jobs
-    - At the time is was the apple 2e, Apple made a lot of money, 
-    then Steve Jobs came back and built the Macintosh
+    - At the time is was the apple 2e which Apple made a lot of money on, then Steve Jobs came back and built the Macintosh
     - So at the same time you had the old apple 2e and the more modern
     macintosh 
     - Wich means Apple was ambidextours, milikng the market with apple 2e
