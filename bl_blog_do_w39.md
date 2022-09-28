@@ -64,6 +64,13 @@ The article states that:
     - Where strucurally independents means that they have their own processes and their own culture. Almost like a new organization within the organization. 
 - They also found that breaktroughs comming from ambidextrous organizations where way more ofthen sucsessful than with the other structues. 
 
+---
+ 
+
+<" At a theoretical level, it’s easy to explain why ambidextrous organizations would outperform other organizational types. The structure of ambidextrous organizations allows cross-fertilization among units while preventing cross-contamination. The tight coordination at the managerial level enables the fledgling units to share important resources from the traditional units—cash, talent, expertise, customers, and so on—but the organizational separation ensures that the new units’ distinctive processes, structures, and cultures are not overwhelmed by the forces of “business as usual.” At the same time, the established units are shielded from the distractions of launching new businesses; they can continue to focus all their attention and energy on refining their operations, improving their products, and serving their customers" -  [O'Reily and Tushman, 2014](https://hbr.org/2004/04/the-ambidextrous-organization) >
+
+---
+
 
 
 
