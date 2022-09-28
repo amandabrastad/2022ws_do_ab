@@ -23,13 +23,13 @@ at the same time as it is innovatiing for the future.
 
 ### THE APPLE EXAMPLE
 - Look at Apple, and the book of Steve Jobs
-    - At the time is was the apple 2e, Apple made a lot of money. 
-    but then Steve Jobs came back and built the Macintosh
+    - At the time is was the apple 2e, Apple made a lot of money, 
+    then Steve Jobs came back and built the Macintosh
     - So at the same time you had the old apple 2e and the more modern
-    macintosh. 
+    macintosh 
     - Wich means Apple was ambidextours, milikng the market with apple 2e
-    and innovating with the macintosh. 
-    - Therefore apple needed the apple 2e for income and keeping the     company alive, but they also needed to develop the macintosh, otherwise they probably would not have been alive today. 
+    and innovating with the macintosh 
+    - Apple needed the apple 2e for income and keeping the     company alive, but they also needed to develop the macintosh, otherwise they probably would not have been alive today 
 
 How does an organization both do what is keeping them alive and innovate at the same time? 
 
