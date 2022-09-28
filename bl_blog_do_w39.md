@@ -1,6 +1,6 @@
 # Ambidextrous organizations
 
-### Blog for blended learning week 39 
+### Amanda's blog for blended learning week 39 
 
 ---
 
@@ -50,6 +50,11 @@ The article states that:
 ---
 
 ## Sucsessfull Ambidextours Organisations according to [O'Reily and Tushman, 2014](https://hbr.org/2004/04/the-ambidextrous-organization)
+
+- They found that companies beeing succsessful, at beeing ambidextours, share some characteristics, the main one beeing: 
+
+! They seperate their explorative and ther exploitative units.
+
 
 
 
