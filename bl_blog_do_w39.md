@@ -55,6 +55,16 @@ The article states that:
 
 > They seperate their explorative and ther exploitative units.
 
+---
+
+## Beeing explorative and exploitative at the same time [O'Reily and Tushman, 2014](https://hbr.org/2004/04/the-ambidextrous-organization)
+
+- To be explorative and exploirative at the same time, a company needs to do incremetnal and discontinous inovations at the same time.
+- Where breaktroughs from Ambidezxtrous organixations came from structurally independent units in the organization.
+    - Where strucurally independents means that they have their own processes and their own culture. Almost like a new organization within the organization. 
+- They also found that breaktroughs comming from ambidextrous organizations where way more ofthen sucsessful than with the other structues. 
+
+
 
 
 
