@@ -17,3 +17,6 @@ Let's look at Apple.
 
 They developed the [Macintosh](https://en.wikipedia.org/wiki/Macintosh). 
 
+---
+
+## Blog for blended learning week 1 
