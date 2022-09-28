@@ -34,9 +34,9 @@ How does an organization both do what is keeping them alive and innovate at the 
 
 ---
 
-# A Harvars busniess Reviev article on Ambidextours Organisations 
+## A Harvars busniess Review article on Ambidextours Organisations 
 
-Sorce: O'Reily, C.A. & Tushman, M.L. (2014). The Ambidextrous Organization. Harward Business Review. (Link)[https://hbr.org/2004/04/the-ambidextrous-organization]
+Sorce: O'Reily, C.A. & Tushman, M.L. (2014). The Ambidextrous Organization. Harward Business Review. [Link](https://hbr.org/2004/04/the-ambidextrous-organization) 
 
 
 
