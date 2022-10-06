@@ -34,42 +34,42 @@ How does an organization both do what is keeping them alive and innovate at the 
 
 ---
 
-## A Harvard bussniess Review article on Ambidextrous Organisations 
+## A Harvard Business Review  article on Ambidextrous Organizations 
 
-Source: O'Reily, C.A. & Tushman, M.L. (2014). The Ambidextrous Organization. Harvard Business Review. [Link](https://hbr.org/2004/04/the-ambidextrous-organization) 
+Source: O’Reilly, C.A. & Tushman, M.L. (2014). The Ambidextrous Organization. Harvard Business Review. [Link](https://hbr.org/2004/04/the-ambidextrous-organization) 
 
 The article states that:
 - Managers need to be able to attend to their products at the same time as they are innovating for the future
 - Or in other words explore the new at the same time as exploiting the old
 - A famous example of how not to do it is Kodak whom made the digital camera, but decided to stick with what they knew, and not to use more time on the digital camera, as we all know that did not go very well. 
 
-- A lot of companies fail to beambidextrous, but what is the sucsess formula? 
+- A lot of companies fail to be ambidextrous, but what is the success formula? 
 - Some say it is cross-functional teams, other say you alternate between focusing on old and new
-- O'Reily and Tusman (2014) tests the theories!
+- O’Reilly and Tushman (2014) tests the theories!
 
 ---
 
-## Sucsessfull Ambidextrous Organisations according to [O'Reily and Tushman, 2014](https://hbr.org/2004/04/the-ambidextrous-organization)
+## Sucsessfull Ambidextrous Organisations according to [O’Reilly and Tushman, 2014](https://hbr.org/2004/04/the-ambidextrous-organization)
 
-- They found that companies being succsessful, at being ambidextrous, share some characteristics, the main one being: 
+- They found that companies being successful, at being ambidextrous, share some characteristics, the main one being: 
 
 > They separate their explorative and their exploitative units.
 
 ---
 
-## Beeing explorative and exploitative at the same time [O'Reily and Tushman, 2014](https://hbr.org/2004/04/the-ambidextrous-organization)
+## Beeing explorative and exploitative at the same time [O’Reilly and Tushman, 2014](https://hbr.org/2004/04/the-ambidextrous-organization)
 
-- To be explorative and exploirative at the same time, a company needs to do incremetnal and discontinous inovations at the same time.
-- Where breaktroughs from Ambidextrous organixations came from structurally independent units in the organization.
-    - Where strucurally independents means that they have their own processes and their own culture. Almost like a new organization within the organization. 
-- They also found that breaktroughs coming from ambidextrous organizations where way more often sucsessful than with the other structures. 
+- To be explorative and explorative at the same time, a company needs to do incremental and discontinuous innovations at the same time.
+- Where breakthroughs from Ambidextrous organizations came from structurally independent units in the organization.
+    - Where structurally independents means that they have their own processes and their own culture. Almost like a new organization within the organization. 
+- They also found that breakthroughs coming from ambidextrous organizations where way more often successful than with the other structures. 
 
 ---
  
 
-> " At a theoretical level, it’s easy to explain why ambidextrous organizations would outperform other organizational types. The structure of ambidextrous organizations allows cross-fertilization among units while preventing cross-contamination. The tight coordination at the managerial level enables the fledgling units to share important resources from the traditional units—cash, talent, expertise, customers, and so on—but the organizational separation ensures that the new units’ distinctive processes, structures, and cultures are not overwhelmed by the forces of “business as usual.” At the same time, the established units are shielded from the distractions of launching new businesses; they can continue to focus all their attention and energy on refining their operations, improving their products, and serving their customers" -  [O'Reily and Tushman, 2014](https://hbr.org/2004/04/the-ambidextrous-organization) 
+> " At a theoretical level, it’s easy to explain why ambidextrous organizations would outperform other organizational types. The structure of ambidextrous organizations allows cross-fertilization among units while preventing cross-contamination. The tight coordination at the managerial level enables the fledgling units to share important resources from the traditional units—cash, talent, expertise, customers, and so on—but the organizational separation ensures that the new units’ distinctive processes, structures, and cultures are not overwhelmed by the forces of “business as usual.” At the same time, the established units are shielded from the distractions of launching new businesses; they can continue to focus all their attention and energy on refining their operations, improving their products, and serving their customers" -  [O’Reilly and Tushman, 2014](https://hbr.org/2004/04/the-ambidextrous-organization) 
 
-That's in theory, how does it work in practise?
+That's in theory, how does it work in practice?
 
 ---
 
