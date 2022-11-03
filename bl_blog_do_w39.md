@@ -1,6 +1,6 @@
 # Ambidextrous organizations
 
-### Amanda's blog for blended learning week 39 
+### Amanda's blog for blended learning 
 
 ---
 
@@ -72,6 +72,14 @@ The article states that:
 That's in theory, how does it work in practice?
 
 ---
+
+## Disruptive innovations
+
+Why is there a need to be Ambidextrous? The need to be ambidextrous may come from what we define as Disruptive innovations. 
+[Simply explained disruptive innovation](https://www.youtube.com/watch?v=Cu6J6taqOSg) 
+
+---
+
 
 
 
