@@ -1,13 +1,28 @@
 #  Ambidextrous organizations
 
-by Amanda Brastad 
+by Amanda C. Brastad (15-20 min)
+
+- Think about: 
+    - Give 3 main points 
+    - What do I want others to take from my presentation? 
 
 ---
 
-## WHAT 
+## WHAT IS IT?
 
-- What is ambidexstorus organitzations? 
+- What is Ambidextrous organizations? 
 - What is it needed for? 
+
+---
+
+## HOW DOES IT WORK?
+
+- Concrete answers, how does one do it?
+- How do you do both innovation and stay in the market?
+
+--- 
+
+## WHY IS IT INTERESTING?
 
 ---
 
