@@ -24,6 +24,12 @@ O’Reily and Tushman (2014) found that companies who have indeed succeeded at b
 
 ![Image of separate explorative and exploitative units](separate_explorative_and_exploitative_units.jpg)
 
+This means doing incremental and discontinuous innovation at the same time. An incremental innovations is stepwise or a small improvements to your product,  while a discontinuous innovation is about introducing an entirely new product to the market.  Where the breakthroughs or the discontinuous innovations come from a structurally independent unit in the organization. In general O’Reily and Tushman (2014) found that breakthroughs coming from ambidextrous organizations were way more often successful than breakthroughs coming from organizations with other structures. 
+
+## Why does it work? 
+
+From a theoretical perspective ambidextrous organizations work better because their structure allows the organization to “cross-fertilization among units while preventing cross-contamination” O’Reily and Tushman (2014). Which means they can share what benefits them both like knowledge, customer or income. At the same time the new and explorative unit is not contaminated by the old way of thinking for the company. In addition the old unit is not affected by distractions common from the explorative unit trying to launch a new business.
+
 
 
 
