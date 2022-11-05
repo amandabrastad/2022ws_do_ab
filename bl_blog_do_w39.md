@@ -29,8 +29,9 @@ O’Reily and Tushman (2014) found that companies who have indeed succeeded at b
 
 
 
-
-
+---
+---
+---
 
 # THE OLD BLOG: 
 ---
