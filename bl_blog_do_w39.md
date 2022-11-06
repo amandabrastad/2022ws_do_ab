@@ -12,7 +12,7 @@ What was the biggest mistake of these and many other companies, or what could th
 
 The word ambidextrous itself means being able to use both hands equally well(1). For an organization to be an ambidextrous organization it means being able to attend to their products at the same time as they are innovating for the future(2). No company succeeds forever, so if you are not the one to make the product that kills your company, somebody else will!   
 
-One company that has succeeded being ambidextrous is Apple. Early on Apple had the Apple 2e which made a lot of money, then Steve Jobs came back and built the Macintosh. Therefore at the same time you had the old Apple 2e and the modern Macintosh, where Apple 2e was milking the current market and the Macintosh was an invention. Making 2e responsible for Apple's income at the time, keeping the company alive, and creating money used on developing the macintosh. Apple managed to be an ambidextrous organization, if they had decided to “stick with what works” and only focused on the 2e we can assume they would not have been alive today. 
+One company that has succeeded being ambidextrous is Apple. Early on Apple had the Apple 2e which made a lot of money, then Steve Jobs came back and built the Macintosh. Therefore at the same time you had the old Apple 2e and the modern Macintosh. Where Apple 2e was milking the current market and the Macintosh was an invention. Making 2e responsible for Apple's income at the time, keeping the company alive, and creating money used on developing the macintosh. Apple managed to be an ambidextrous organization, if they had decided to “stick with what works” and only focused on the 2e we can assume they would not have been alive today. 
 
 ![Image of Apple being Ambidextrous](apple_beeing_ambidex.jpg)
 
@@ -24,11 +24,11 @@ O’Reily and Tushman (2014) found that companies who have indeed succeeded at b
 
 ![Image of separate explorative and exploitative units](separate_explorative_and_exploitative_units.jpg)
 
-This means doing incremental and discontinuous innovation at the same time. An incremental innovations is stepwise or a small improvements to your product(4), while a discontinuous innovation is about introducing an entirely new product to the market(5). Where the breakthroughs or the discontinuous innovations come from a structurally independent unit in the organization. In general O’Reily and Tushman (2014) found that breakthroughs coming from ambidextrous organizations were way more often successful than breakthroughs coming from organizations with other structures. 
+This means doing incremental and discontinuous innovation at the same time. An incremental innovations is a stepwise or a small improvements to your product(4), while a discontinuous innovation is about introducing an entirely new product to the market(5). Where the breakthroughs or the discontinuous innovations come from a structurally independent unit in the organization. In general O’Reily and Tushman (2014) found that breakthroughs coming from ambidextrous organizations were way more often successful than breakthroughs coming from organizations with other structures. 
 
 ## Why does it work? 
 
-From a theoretical perspective ambidextrous organizations work better because their structure allows the organization to “cross-fertilization among units while preventing cross-contamination” O’Reily and Tushman (2014). Which means they can share what benefits them both like knowledge, customer or income. At the same time the new and explorative unit is not contaminated by the old way of thinking for the company. In addition the old unit is not affected by distractions common from the explorative unit trying to launch a new business(6).
+From a theoretical perspective ambidextrous organizations work better because their structure allows the organization to “cross-fertilization among units while preventing cross-contamination” O’Reily and Tushman (2014). Which means they can share what benefits them both like knowledge, customers or income. At the same time the new and explorative unit is not contaminated by the old way of thinking for the company. In addition the old unit is not affected by distractions coming from the explorative unit trying to launch a new business(6).
 
 ---
 ### Sources
