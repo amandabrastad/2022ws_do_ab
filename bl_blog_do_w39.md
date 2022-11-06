@@ -18,17 +18,17 @@ One company that has succeeded being ambidextrous is Apple. Early on Apple had t
 
 ## How does it work?
 
-According to [O’Reilly and Tushman (2014)](https://hbr.org/2004/04/the-ambidextrous-organization) managers need to be able to attend to their products at the same time as they are innovating for the future(3),  just like Apple did with the Apple 2e and the Macintosh. In other words they need to be able to explore at the same time as they exploit. Which may sound like an easy thing to do, but a lot of companies fail to be ambidextrous even if they are aware they should be.  O’Reily and Tushman (2014) takes a look at the theories, some say that you need cross-functional teams, others say you have to alternate between focusing on old and new. 
+According to [O’Reilly and Tushman (2004)](https://hbr.org/2004/04/the-ambidextrous-organization) managers need to be able to attend to their products at the same time as they are innovating for the future(3),  just like Apple did with the Apple 2e and the Macintosh. In other words they need to be able to explore at the same time as they exploit. Which may sound like an easy thing to do, but a lot of companies fail to be ambidextrous even if they are aware they should be.  O’Reily and Tushman (2004) takes a look at the theories, some say that you need cross-functional teams, others say you have to alternate between focusing on old and new. 
 
-O’Reily and Tushman (2014) found that companies who have indeed succeeded at being ambidextrous share some characteristics. The main one being: They separate their explorative and exploitative units. 
+O’Reily and Tushman (2004) found that companies who have indeed succeeded at being ambidextrous share some characteristics. The main one being: They separate their explorative and exploitative units. 
 
 ![Image of separate explorative and exploitative units](separate_explorative_and_exploitative_units.jpg)
 
-This means doing incremental and discontinuous innovation at the same time. An incremental innovations is a stepwise or a small improvements to your product(4), while a discontinuous innovation is about introducing an entirely new product to the market(5). Where the breakthroughs or the discontinuous innovations come from a structurally independent unit in the organization. In general O’Reily and Tushman (2014) found that breakthroughs coming from ambidextrous organizations were way more often successful than breakthroughs coming from organizations with other structures. 
+This means doing incremental and discontinuous innovation at the same time. An incremental innovations is a stepwise or a small improvements to your product(4), while a discontinuous innovation is about introducing an entirely new product to the market(5). Where the breakthroughs or the discontinuous innovations come from a structurally independent unit in the organization. In general O’Reily and Tushman (2004) found that breakthroughs coming from ambidextrous organizations were way more often successful than breakthroughs coming from organizations with other structures. 
 
 ## Why does it work? 
 
-From a theoretical perspective ambidextrous organizations work better because their structure allows the organization to “cross-fertilization among units while preventing cross-contamination” O’Reily and Tushman (2014). Which means they can share what benefits them both like knowledge, customers or income. At the same time the new and explorative unit is not contaminated by the old way of thinking for the company. In addition the old unit is not affected by distractions coming from the explorative unit trying to launch a new business(6).
+From a theoretical perspective ambidextrous organizations work better because their structure allows the organization to “cross-fertilization among units while preventing cross-contamination” O’Reily and Tushman (2004). Which means they can share what benefits them both like knowledge, customers or income. At the same time the new and explorative unit is not contaminated by the old way of thinking for the company. In addition the old unit is not affected by distractions coming from the explorative unit trying to launch a new business(6).
 
 ---
 ### Sources
