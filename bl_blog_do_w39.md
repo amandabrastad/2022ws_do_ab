@@ -33,7 +33,7 @@ From a theoretical perspective ambidextrous organizations work better because th
 ## A deep dive in organizational ambidexterity 
 
 This section is inspired by:
-- https://www.youtube.com/watch?v=p_-WFmrzKG0
+- [Ambidextrous Organizations Explained](https://www.youtube.com/watch?v=p_-WFmrzKG0)
 If you like to watch videos instead of reading please take a look at the videos mentioned above. 
 
 As we now already know, ambidextrous organizations take care of today's business with one hand and innovation with the other, and benefit from this separation of culture, processes and people. The problem being that innovation in one unit is disruptive to the business in the other unit. The separation of the units in the business is the tool to make this easier, but a lot of businesses still fail to be ambidextrous. This is also known as “Innovator’s Dilemma”, which is a book or theory by Clayton Christensen explaining how businesses' success and capabilities are also the thing that make them fail when it comes to new markets or technologies(7). Where being your own disruptive technology, by managing to be ambidextrous is the solution. 
