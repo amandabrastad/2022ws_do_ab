@@ -30,6 +30,25 @@ This means doing incremental and discontinuous innovation at the same time. An i
 
 From a theoretical perspective ambidextrous organizations work better because their structure allows the organization to “cross-fertilization among units while preventing cross-contamination” O’Reily and Tushman (2004). Which means they can share what benefits them both like knowledge, customers or income. At the same time the new and explorative unit is not contaminated by the old way of thinking for the company. In addition the old unit is not affected by distractions coming from the explorative unit trying to launch a new business(6).
 
+## A deep dive in organizational ambidexterity 
+
+This section is inspired by:
+- https://www.youtube.com/watch?v=p_-WFmrzKG0
+If you like to watch videos instead of reading please take a look at the videos mentioned above. 
+
+As we now already know, ambidextrous organizations take care of today's business with one hand and innovation with the other, and benefit from this separation of culture, processes and people. The problem being that innovation in one unit is disruptive to the business in the other unit. The separation of the units in the business is the tool to make this easier, but a lot of businesses still fail to be ambidextrous. This is also known as “Innovator’s Dilemma”, which is a book or theory by Clayton Christensen explaining how businesses' success and capabilities are also the thing that make them fail when it comes to new markets or technologies(7). Where being your own disruptive technology, by managing to be ambidextrous is the solution. 
+
+Why do businesses fail to be ambidextrous? First of all it is challenging for the core management, who are supposed to lead both units at the same time as they are being kept completely separate. The innovative side needs leaders, teams and resources appropriate for an innovative unit. Or not enough training and development for the team who has to learn how to do new things, for instance through [design thinking](https://www.interaction-design.org/literature/article/what-is-design-thinking-and-why-is-it-so-popular) or [lean startup](https://en.wikipedia.org/wiki/Lean_startup). Or when there is a new idea there is no agreement within management on whether to go with it or not, which is believed to be what happened with Kodak and the digital camera. 
+
+What is then needed to succeed in being ambidextrous? 
+* The right setup trough separate units in the organization 
+* The right leaders with mindset and skills to lead both teams 
+* A team with the right training and motivation to invent
+
+
+
+
+
 ---
 ### Sources
 - (1) https://dictionary.cambridge.org/dictionary/english/ambidextrous
@@ -38,6 +57,7 @@ From a theoretical perspective ambidextrous organizations work better because th
 - (4) https://www.northeastern.edu/graduate/blog/what-is-incremental-innovation/#:~:text=The%20term%20%E2%80%9Cincremental%20innovation%E2%80%9D%20refers,while%20building%20on%20current%20offerings.
 - (5) https://www.oxfordreference.com/view/10.1093/oi/authority.20110803095721272#:~:text=An%20entirely%20new%20product%20introduced,no%20previous%20product%20has%20performed
 - (6) https://hbr.org/2004/04/the-ambidextrous-organization 
+- (7)  https://web.mit.edu/6.933/www/Fall2000/teradyne/clay.html 
 
 
 
