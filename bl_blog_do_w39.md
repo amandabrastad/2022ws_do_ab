@@ -57,6 +57,8 @@ Communication is also a tough balancing act, because you want the teams to be in
 
 In general we also know from leadership theory that most people are opposed to change, and scared to fail. Putting together an innovative team, that team needs to be allowed to fail. Allowed to explore options that do not work, and room to be creative. Using people from the course business adds the benefits of thorough understanding and knowledge, but also adds the risk of contamination of old culture or thinking that limits innovation. 
 
+![Image of balancing the ambidextrous units](balance_units.jpg)
+
 There is no simple solution or recipe to balance in the right way. If it was simple everyone would do it, and every company could be a successful company. 
 
 What added benefits come from ambidexterity? 
