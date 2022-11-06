@@ -34,6 +34,9 @@ From a theoretical perspective ambidextrous organizations work better because th
 
 This section is inspired by:
 - [Ambidextrous Organizations Explained](https://www.youtube.com/watch?v=p_-WFmrzKG0)
+- [The Innovator's Dilemma](https://www.youtube.com/watch?v=yUAtIQDllo8)
+- [The Lean Startup](https://www.youtube.com/watch?v=sobxOzRjAGg)
+
 
 If you like to watch videos instead of reading please take a look at the videos mentioned above. 
 
