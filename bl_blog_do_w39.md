@@ -32,12 +32,12 @@ From a theoretical perspective ambidextrous organizations work better because th
 
 ---
 ### Sources
-(1) https://dictionary.cambridge.org/dictionary/english/ambidextrous
-(2) https://hbr.org/2004/04/the-ambidextrous-organization 
-(3) https://hbr.org/2004/04/the-ambidextrous-organization 
-(4) https://www.northeastern.edu/graduate/blog/what-is-incremental-innovation/#:~:text=The%20term%20%E2%80%9Cincremental%20innovation%E2%80%9D%20refers,while%20building%20on%20current%20offerings.
-(5) https://www.oxfordreference.com/view/10.1093/oi/authority.20110803095721272#:~:text=An%20entirely%20new%20product%20introduced,no%20previous%20product%20has%20performed
-(6) https://hbr.org/2004/04/the-ambidextrous-organization 
+- (1) https://dictionary.cambridge.org/dictionary/english/ambidextrous
+- (2) https://hbr.org/2004/04/the-ambidextrous-organization 
+- (3) https://hbr.org/2004/04/the-ambidextrous-organization 
+- (4) https://www.northeastern.edu/graduate/blog/what-is-incremental-innovation/#:~:text=The%20term%20%E2%80%9Cincremental%20innovation%E2%80%9D%20refers,while%20building%20on%20current%20offerings.
+- (5) https://www.oxfordreference.com/view/10.1093/oi/authority.20110803095721272#:~:text=An%20entirely%20new%20product%20introduced,no%20previous%20product%20has%20performed
+- (6) https://hbr.org/2004/04/the-ambidextrous-organization 
 
 
 
