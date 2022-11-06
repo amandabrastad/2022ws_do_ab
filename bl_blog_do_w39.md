@@ -49,10 +49,13 @@ What is then needed to succeed in being ambidextrous?
 * The right setup trough separate units in the organization 
 * The right leaders with mindset and skills to lead both teams 
 * A team with the right training and motivation to invent
+* Balancing the exploration and exploitation
 
 How does a business balance exploration and exploitation? To give room for innovation you could make use of a well communicated strategy that guides the business in the right direction through encouraging innovation. Then there are the right people in the right place, a person who is doing really well in your exploitation unit might not be the right person to send to the exploration unit. You need people and teams who understand the markets and understand what it is that consumers want in the future. Further the business needs to allocate the right resources to the right team. On one hand you want the old business to milk the market and keep the customers for as long as possible, while at the same time the innovative team needs the customers, information and understanding to develop the right products. Therefore this is a tough balancing act. Communication is also a tough balancing act, because you want the teams to be independent and not negatively affect each other, but they also benefit from communication and thorough understanding. 
 
-What benefits come from ambidexterity? 
+There is no simple solution or recipe to balance in the right way. If it was simple everyone would do it, and every company could be a successful company. 
+
+What added benefits come from ambidexterity? 
 * Adaptability: The world is changing fast, and especially the new and digital world. The capability to adapt is strongly needed in today's business world. 
 * Avoid stagnation: Like mentioned several times, sticking with what we know because it has worked so well in the past will lead to eventually losing out customers to disruptive technology. 
 * Long lasting increased revenue: As we see with successful ambidextrous organizations today like Google or Apple. Given that you succeed in milking the market and innovating the next thing to take over at the same time. 
