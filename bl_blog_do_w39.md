@@ -10,19 +10,20 @@ What was the biggest mistake of these and many other companies, or what could th
 
 ## What is an Ambidextrous organizations? 
 
-The word ambidextrous itself means being able to use both hands equally well(1). For an organization to be an ambidextrous organization it means being able to attend to their products at the same time as they are innovating for the future(2). No company succeeds forever, so if you are not the one to make the product that kills your company, somebody else will!   
+The word ambidextrous itself means being able to use both hands equally well(1). For an organization to be an ambidextrous organization it means being able to attend to their current products at the same time as they are innovating for the future(2). No company succeeds forever, if you are not the one to make the product that kills your company, somebody else will!   
 
-One company that has succeeded being ambidextrous is Apple. Early on Apple had the Apple 2e which made a lot of money, then Steve Jobs came back and built the Macintosh. Therefore at the same time you had the old Apple 2e and the modern Macintosh. Where Apple 2e was milking the current market and the Macintosh was an invention. Making 2e responsible for Apple's income at the time, keeping the company alive, and creating money used on developing the macintosh. Apple managed to be an ambidextrous organization, if they had decided to “stick with what works” and only focused on the 2e we can assume they would not have been alive today. 
+One company that has succeeded being ambidextrous is Apple. Early on Apple had the Apple 2e which made a lot of money, then Steve Jobs came back and built the Macintosh. Therefore at the same time you had the old Apple 2e and the modern Macintosh. Where Apple 2e was milking the current market and the Macintosh was an invention. Making 2e responsible for Apple's income at the time, keeping the company alive, and creating money used on developing the macintosh. Apple managed to be an ambidextrous organization, if they had decided to “stick with what works” and only focused on the 2e we can assume they would not exist today. 
 
 ![Image of Apple being Ambidextrous](apple_beeing_ambidex.jpg)
 
 ## How does it work?
 
-According to [O’Reilly and Tushman (2004)](https://hbr.org/2004/04/the-ambidextrous-organization) managers need to be able to attend to their products at the same time as they are innovating for the future(3),  just like Apple did with the Apple 2e and the Macintosh. In other words they need to be able to explore at the same time as they exploit. Which may sound like an easy thing to do, but a lot of companies fail to be ambidextrous even if they are aware they should be.  O’Reily and Tushman (2004) takes a look at the theories, some say that you need cross-functional teams, others say you have to alternate between focusing on old and new. 
+According to [O’Reilly and Tushman (2004)](https://hbr.org/2004/04/the-ambidextrous-organization) managers need to be able to attend to their products at the same time as they are innovating for the future(3),  just like Apple did with the Apple 2e and the Macintosh. In other words they need to be able to explore at the same time as they exploit. Which may sound like an easy thing to do, but a lot of companies fail to be ambidextrous even if they are aware they should be.  O’Reily and Tushman (2004) takes a look at the theories, some say that you need cross-functional teams, others say you have to alternate between focusing on old products and new products. 
 
 O’Reily and Tushman (2004) found that companies who have indeed succeeded at being ambidextrous share some characteristics. The main one being: They separate their explorative and exploitative units. 
 
 ![Image of separate explorative and exploitative units](separate_explorative_and_exploitative_units.jpg)
+_Even if the examples or explanations mentions are regarding products, being ambidextrous also applies to companies selling services or both._
 
 This means doing incremental and discontinuous innovation at the same time. An incremental innovations is a stepwise or a small improvements to your product(4), while a discontinuous innovation is about introducing an entirely new product to the market(5). Where the breakthroughs or the discontinuous innovations come from a structurally independent unit in the organization. In general O’Reily and Tushman (2004) found that breakthroughs coming from ambidextrous organizations were way more often successful than breakthroughs coming from organizations with other structures. 
 
@@ -37,13 +38,13 @@ This section is inspired by:
 - [The Innovator's Dilemma](https://www.youtube.com/watch?v=yUAtIQDllo8)
 - [The Lean Startup](https://www.youtube.com/watch?v=sobxOzRjAGg)
 - [Ambidextrous Organization | Balancing ](https://www.youtube.com/watch?v=oIR79ePkb3w)
-- [Google’s Principles of Innovation](https://www.youtube.com/watch?v=deDncBTgy5I)
+
 
 If you like to watch videos instead of reading please take a look at the videos mentioned above. 
 
-As we now already know, ambidextrous organizations take care of today's business with one hand and innovation with the other, and benefit from this separation of culture, processes and people. The problem being that innovation in one unit is disruptive to the business in the other unit. The separation of the units in the business is the tool to make this easier, but a lot of businesses still fail to be ambidextrous. This is also known as “Innovator’s Dilemma”, which is a book or theory by Clayton Christensen explaining how businesses' success and capabilities are also the thing that make them fail when it comes to new markets or technologies(7). Where being your own disruptive technology, by managing to be ambidextrous is the solution. 
+As we now already know, ambidextrous organizations take care of today's business with one hand and innovation with the other, and benefit from this separation of culture, processes and people. The problem being that innovation in one unit is disruptive to the business in the other unit. The separation of the units in the business is the tool to make this easier, but a lot of businesses still fail to be ambidextrous. This is also known as “Innovator’s Dilemma”, which is a book or theory by Clayton Christensen explaining how businesses' success and capabilities are also the thing that make them fail when it comes to new markets or technologies(7). Where being your own disruptive technology, by managing to be ambidextrous, is the solution. 
 
-Why do businesses fail to be ambidextrous? First of all it is challenging for the core management, who are supposed to lead both units at the same time as they are being kept completely separate. The innovative side needs leaders, teams and resources appropriate for an innovative unit. Or not enough training and development for the team who has to learn how to do new things, for instance through [design thinking](https://www.interaction-design.org/literature/article/what-is-design-thinking-and-why-is-it-so-popular) or [lean startup](https://en.wikipedia.org/wiki/Lean_startup). Or when there is a new idea there is no agreement within management on whether to go with the innovation or not, which is believed to be what happened with Kodak and the digital camera. 
+Why do businesses fail to be ambidextrous? First of all it is challenging for the core management, who are supposed to lead both units at the same time as they are being kept completely separate. The innovative side needs leaders, teams and resources appropriate for an innovative unit. Further not enough training and development for the team who has to learn how to do new things, for instance through [design thinking](https://www.interaction-design.org/literature/article/what-is-design-thinking-and-why-is-it-so-popular) or [lean startup](https://en.wikipedia.org/wiki/Lean_startup). Or when there is a new idea there is no agreement within management on whether to go with the innovation or not, which is believed to be what happened with Kodak and the digital camera. 
 
 What is then needed to succeed in being ambidextrous? 
 * The right setup trough separate units in the organization 
@@ -61,7 +62,7 @@ In general we also know from leadership theory that most people are opposed to c
 
 There is no simple solution or recipe to balance in the right way. If it was simple everyone would do it, and every company could be a successful company. 
 
-What added benefits come from ambidexterity? 
+As we now understand there are many pitfalls of not managing to be an ambidextrous organization. But if one manages to avoid the pitfalls, the added benefits from ambidexterity are great:
 * Adaptability: The world is changing fast, and especially the new and digital world. The capability to adapt is strongly needed in today's business world. 
 * Avoid stagnation: Like mentioned several times, sticking with what we know because it has worked so well in the past will lead to eventually losing out customers to disruptive technology. 
 * Long lasting increased revenue: As we see with successful ambidextrous organizations today like Google or Apple. Given that you succeed in milking the market and innovating the next thing to take over at the same time. 
