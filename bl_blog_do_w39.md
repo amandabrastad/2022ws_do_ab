@@ -23,6 +23,7 @@ According to [O’Reilly and Tushman (2004)](https://hbr.org/2004/04/the-ambidex
 O’Reily and Tushman (2004) found that companies who have indeed succeeded at being ambidextrous share some characteristics. The main one being: They separate their explorative and exploitative units. 
 
 ![Image of separate explorative and exploitative units](separate_explorative_and_exploitative_units.jpg)
+
 _Even if the examples or explanations mentions are regarding products, being ambidextrous also applies to companies selling services._
 
 This means doing incremental and discontinuous innovation at the same time. An incremental innovations is a stepwise or a small improvements to your product(4), while a discontinuous innovation is about introducing an entirely new product to the market(5). Where the breakthroughs or the discontinuous innovations come from a structurally independent unit in the organization. In general O’Reily and Tushman (2004) found that breakthroughs coming from ambidextrous organizations were way more often successful than breakthroughs coming from organizations with other structures. 
