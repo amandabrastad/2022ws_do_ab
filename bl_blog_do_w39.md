@@ -65,8 +65,9 @@ There is no simple solution or recipe to balance in the right way. If it was sim
 
 As we now understand there are many pitfalls of not managing to be an ambidextrous organization. But if one manages to avoid the pitfalls, the added benefits from ambidexterity are great:
 * Adaptability: The world is changing fast, and especially the new and digital world. The capability to adapt is strongly needed in today's business world. 
-* Avoid stagnation: Like mentioned several times, sticking with what we know because it has worked so well in the past will lead to eventually losing out customers to disruptive technology. 
-* Long lasting increased revenue: As we see with successful ambidextrous organizations today like Google or Apple. Given that you succeed in milking the market and innovating the next thing to take over at the same time. 
+* Avoid stagnation: Like mentioned several times, sticking with what we know because it has worked so well in the past will lead to eventually losing our customers to disruptive technology. 
+* Profit: As we see with successful ambidextrous organizations today like Google or Apple. Given that you succeed in milking the market and innovating the next thing to take over at the same time. Where the exploitative unit is responsible for short-term profit and the explorative for the long-term profit. 
+
 
 
 
