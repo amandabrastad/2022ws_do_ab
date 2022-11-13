@@ -79,6 +79,11 @@ There seems to be little difference between contextual and structural ambidexter
 Whether it is following a framework or having a different perspective on ambidexterity does not really matter, as we have seen there are many benefits from managing to be an ambidextrous organization and it is hard to become one. 
 
 
+## Conclusion 
+From the business world we know that Kodak and Blockbuster could have benefitted from being ambidextrous, while Apple and Amazon have had great success being ambidextrous. They have managed to attend to their current products at the same time as they are innovating for the future. By facing the challenges of balancing through separation of an explorative and an exploitative unit. Gaining the benefits of adaptability, avoiding stagnation and increased long time revenue. 
+
+
+
 
 
 ---
