@@ -68,7 +68,7 @@ As we now understand there are many pitfalls of not managing to be an ambidextro
 * Avoid stagnation: Like mentioned several times, sticking with what we know because it has worked so well in the past will lead to eventually losing our customers to disruptive technology. 
 * Profit: As we see with successful ambidextrous organizations today like Google or Apple. Given that you succeed in milking the market and innovating the next thing to take over at the same time. Where the exploitative unit is responsible for short-term profit and the explorative for the long-term profit. 
 
-### A different perspective on ambidexterity 
+**A different perspective on ambidexterity**
 Organizational ambidexterity can be seen from more perspectives than the one described above. While the one described is referred to as contextual ambidexterity, which states organizations need to address exploration and exploitation simultaneously (8).  The other perspective is structural ambidexterity where the organization cycles through periods of exploitation and periods of exploration (8). Where managing both at once can be seen as more complicated than managing one at the time. 
 
 According to [Budoian (2021)](https://digitalleadership.com/blog/ambidextrous-organization/). The outcomes are the same, first of all innovation but also that having explorative and exploitative units positively relates to growth rate. Further successful ambidextrous companies, the capability to be ambidextrous is their foundation for continued success. Like British Airways with increased customer satisfaction, or Apple still being successful (8) from starting their ambidextrous journey with the Macintosh in 1985. 
