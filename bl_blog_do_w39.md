@@ -68,6 +68,14 @@ As we now understand there are many pitfalls of not managing to be an ambidextro
 * Avoid stagnation: Like mentioned several times, sticking with what we know because it has worked so well in the past will lead to eventually losing our customers to disruptive technology. 
 * Profit: As we see with successful ambidextrous organizations today like Google or Apple. Given that you succeed in milking the market and innovating the next thing to take over at the same time. Where the exploitative unit is responsible for short-term profit and the explorative for the long-term profit. 
 
+### A different perspective on ambidexterity 
+Organizational ambidexterity can be seen from more perspectives than the one described above. While the one described is referred to as contextual ambidexterity, which states organizations need to address exploration and exploitation simultaneously (8).  The other perspective is structural ambidexterity where the organization cycles through periods of exploitation and periods of exploration (8). Where managing both at once can be seen as more complicated than managing one at the time. 
+
+According to [Budoian (2021)](https://digitalleadership.com/blog/ambidextrous-organization/). The outcomes are the same, first of all innovation but also that having explorative and exploitative units positively relates to growth rate. Further successful ambidextrous companies, the capability to be ambidextrous is their foundation for continued success. Like British Airways with increased customer satisfaction, or Apple still being successful (8) from starting their ambidextrous journey with the Macintosh in 1985. 
+
+There seems to be little difference between contextual and structural ambidexterity, because the main goal of ambidexterity is managing to explore and exploit. [Lerner & Zieris (2019)](https://www.cutter.com/article/ambidextrous-organizations-how-embrace-disruption-and-create-organizational-advantage-502561) created a canvas to help oranizational managers to excel in both dimensions. Where they show how businesses that are good at exploitation or productivity have capabilities like controlling, monitoring, history and experience, and businesses that are good at exploration or creativity have good insight, foresight, inspiration and trial & error procedures (9).  Lerner & Zieris (2019) explain how managers can go through the six dimensions of steering, transformation, people, culture, structure and process to make sure they are ready to be an ambidextrous organization. 
+
+Whether it is following a framework or having a different perspective on ambidexterity does not really matter, as we have seen there are many benefits from managing to be an ambidextrous organization and it is hard to become one. 
 
 
 
@@ -80,7 +88,9 @@ As we now understand there are many pitfalls of not managing to be an ambidextro
 - (4) https://www.northeastern.edu/graduate/blog/what-is-incremental-innovation/#:~:text=The%20term%20%E2%80%9Cincremental%20innovation%E2%80%9D%20refers,while%20building%20on%20current%20offerings.
 - (5) https://www.oxfordreference.com/view/10.1093/oi/authority.20110803095721272#:~:text=An%20entirely%20new%20product%20introduced,no%20previous%20product%20has%20performed
 - (6) https://hbr.org/2004/04/the-ambidextrous-organization 
-- (7)  https://web.mit.edu/6.933/www/Fall2000/teradyne/clay.html 
+- (7) https://web.mit.edu/6.933/www/Fall2000/teradyne/clay.html 
+- (8) https://digitalleadership.com/blog/ambidextrous-organization/
+- (9) https://www.cutter.com/article/ambidextrous-organizations-how-embrace-disruption-and-create-organizational-advantage-502561
 
 
 
