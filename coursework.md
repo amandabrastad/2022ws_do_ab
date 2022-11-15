@@ -2,9 +2,15 @@
 
 by Amanda C. Brastad (15-20 min)
 
+---
+
 - Think about: 
     - Give 3 main points 
     - What do I want others to take from my presentation? 
+
+To show pres: Go to "Ledtext" 
+cd kopier sti for 2022ws_do_ab
+reveal-md coursework.md --watch 
 
 ---
 
