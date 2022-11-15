@@ -17,7 +17,7 @@ reveal-md coursework.md --watch
 ---
 ## Introduction 
 
-1. Why is Ambidextrous organizations interesting
+1. Why is Ambidextrous organizations interesting?
 2. What is organizational ambidexterity? 
 3. How does ambidextrous organizations work? 
 
@@ -61,6 +61,6 @@ Drawing:
 
 ---
 
-> Sources can be found in my [blog on Ambidexterity](https://github.com/amandabrastad/2022ws_do_ab/blob/main/bl_blog_do.md)
+> Sources can be found in my [blog on Ambidextrous organizations](https://github.com/amandabrastad/2022ws_do_ab/blob/main/bl_blog_do.md)
 
 
