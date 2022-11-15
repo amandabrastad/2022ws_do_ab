@@ -13,25 +13,32 @@ cd kopier sti for 2022ws_do_ab
 reveal-md coursework.md --watch 
 
 ---
+## WHY IS IT INTERESTING?
 
+Ambidexterity is the recipe for success
+
+Drawing:
+* Kodak 
+* Blockbuster 
+
+* Apple 
+* Amazon
+
+
+---
 ## WHAT IS IT?
 
 - What is Ambidextrous organizations? 
 - What is it needed for? 
 
 ---
-
 ## HOW DOES IT WORK?
 
 - Concrete answers, how does one do it?
 - How do you do both innovation and stay in the market?
 
---- 
-
-## WHY IS IT INTERESTING?
 
 ---
-
 ## Example
 
 Let's look at Apple.
