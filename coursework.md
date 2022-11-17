@@ -1,18 +1,8 @@
 #  Ambidextrous organizations
 
-by Amanda C. Brastad (15-20 min)
+by Amanda Brastad 
 
-> Being able to use both hands at the same time!
-
----
-
-- Think about: 
-    - Give 3 main points 
-    - What do I want others to take from my presentation? 
-
-To show pres: Go to "Ledtext" 
-cd kopier sti for 2022ws_do_ab
-reveal-md coursework.md --watch 
+> Ambidextrous: Being able to use both hands at the same time!
 
 ---
 ## Introduction 
@@ -26,19 +16,30 @@ reveal-md coursework.md --watch
 
 Ambidexterity is the recipe for success
 
-Drawing:
-* Kodak 
-* Blockbuster 
-
-* Apple 
-* Amazon
-
+![Image of Blockbuster and Kodak making the wrong choice](kodak_and_blockbuster.jpg)
 
 ---
-## WHAT IS IT?
+## WHY IS IT INTERESTING?
 
-- What is Ambidextrous organizations? 
-* Definition - explore and exploit at the same time
+Ambidexterity is the recipe for success
+
+![Image of Apple being Ambidextrous](apple_beeing_ambidex.jpg)
+
+---
+## WHAT IS Ambidextrous organizations?
+
+* Attending to your current products at the same time as you are innovating for the future 
+* No company succeeds forever, if you are not the one to make the product that kills your company, somebody else will!   
+
+---
+## HOW DOES IT WORK?
+
+Explore and exploit at the same time
+
+![Image of separate explorative and exploitative units building](buliding_explorative.jpg)
+
+---
+
 - What is it needed for? 
 * The benefits 
 * Example (Apple)
