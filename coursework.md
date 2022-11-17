@@ -39,18 +39,36 @@ Explore and exploit at the same time
 ![Image of separate explorative and exploitative units building](buliding_explorative.jpg)
 
 ---
+## Why does it work? 
 
-- What is it needed for? 
-* The benefits 
-* Example (Apple)
+![Image of cross contamination](cross.jpg)
 
 ---
-## HOW DOES IT WORK?
+## HOW DOES IT WORK? - The problems
 
-- Concrete answers, how does one do it?
-- How do you do both innovation and stay in the market?
+* innovators dilemma 
+* Challening to lead both units 
 
-* In depth of ambidexterity
+---
+## HOW DOES IT WORK? - The problems
+The real problem is balance 
+
+![Image of balancing the ambidextrous units](balance_units.jpg)
+
+---
+
+## What is then needed to succeed in being ambidextrous? 
+* The right setup trough separate units in the organization 
+* The right leaders with mindset and skills to lead both teams 
+* A team with the right training and motivation to invent
+* Balancing the exploration and exploitation
+
+---
+## The benefits if you succsed 
+
+* Adaptability 
+* Avoid stagnation 
+* Long term profit 
 
 ---
 ## Recap 
