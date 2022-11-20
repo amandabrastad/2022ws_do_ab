@@ -57,16 +57,16 @@ How does a business balance exploration and exploitation? To give room for innov
 
 Communication is also a tough balancing act, because you want the teams to be independent and not negatively affect each other, but they also benefit from communication and thorough understanding. It can also lead to conflicts between the units, because the resources of the company will be important for both units of the company. If you do not run your exploitative unit well you can go bankrupt today, and if you do not run your explorative unit well you will go bankrupt in the future. Conflicts between units add to the negative aspects of trying to be an ambidextrous organization. Another negative aspect of ambidexterity is that it is expensive to do. It is maybe easy to imagine that Google can afford to have a unit of exploitation, but imagine a small company that maybe barely can afford to have their own core unit, or just barely have enough people for the core business. Then it will be expensive to start up an entirely new unit just to explore and innovate. 
 
-In general we also know from leadership theory that most people are opposed to change, and scared to fail. Putting together an innovative team, that team needs to be allowed to fail. Allowed to explore options that do not work, and room to be creative. Using people from the course business adds the benefits of thorough understanding and knowledge, but also adds the risk of contamination of old culture or thinking that limits innovation. 
+In general we also know from leadership theory that most people are opposed to change, and scared to fail. Putting together an innovative team, that team needs to be allowed to fail. Allowed to explore options that do not work, and have room to be creative. Using people from the course business adds the benefits of thorough understanding and knowledge, but also adds the risk of contamination of old culture or thinking that limits innovation. 
 
 ![Image of balancing the ambidextrous units](balance_units.jpg)
 
 There is no simple solution or recipe to balance in the right way. If it was simple everyone would do it, and every company could be a successful company. 
 
 As we now understand there are many pitfalls of not managing to be an ambidextrous organization. But if one manages to avoid the pitfalls, the added benefits from ambidexterity are great:
-* Adaptability: The world is changing fast, and especially the new and digital world. The capability to adapt is strongly needed in today's business world. 
-* Avoid stagnation: Like mentioned several times, sticking with what we know because it has worked so well in the past will lead to eventually losing our customers to disruptive technology. 
-* Profit: As we see with successful ambidextrous organizations today like Google or Apple. Given that you succeed in milking the market and innovating the next thing to take over at the same time. Where the exploitative unit is responsible for short-term profit and the explorative for the long-term profit. 
+* **Adaptability**: The world is changing fast, and especially the new and digital world. The capability to adapt is strongly needed in today's business world. 
+* **Avoid stagnation**: Like mentioned several times, sticking with what we know because it has worked so well in the past will lead to eventually losing our customers to disruptive technology. 
+* **Profit**: As we see with successful ambidextrous organizations today like Google or Apple. Given that you succeed in milking the market and innovating the next thing to take over at the same time. Where the exploitative unit is responsible for short-term profit and the explorative for the long-term profit. 
 
 **A different perspective on ambidexterity**
 

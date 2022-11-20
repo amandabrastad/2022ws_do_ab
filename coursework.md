@@ -40,7 +40,7 @@ Explore and exploit at the same time
 
 ---
 ## Why does it work? 
-Avoids cross-contamination allow cross-fertilization
+Avoids cross-contamination allows cross-fertilization
 
 ![Image of cross contamination](cross.jpg)
 
