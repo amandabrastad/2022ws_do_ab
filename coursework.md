@@ -39,7 +39,8 @@ Explore and exploit at the same time
 ![Image of separate explorative and exploitative units building](buliding_explorative.jpg)
 
 ---
-## Why does it work? 
+## HOW DOES IT WORK? 
+**Why does explore and exploit work**
 Avoids cross-contamination allows cross-fertilization
 
 ![Image of cross contamination](cross.jpg)
