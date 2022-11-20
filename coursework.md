@@ -41,6 +41,7 @@ Explore and exploit at the same time
 ---
 ## HOW DOES IT WORK? 
 **Why does explore and exploit work**
+
 Avoids cross-contamination allows cross-fertilization
 
 ![Image of cross contamination](cross.jpg)
