@@ -49,8 +49,10 @@ Avoids cross-contamination allows cross-fertilization
 ---
 ## HOW DOES IT WORK? - The problems
 
-* innovators dilemma 
+* Innovators dilemma 
 * Challening to lead both units 
+* Traning and development
+* Disagreement 
 
 ---
 ## HOW DOES IT WORK? - The problems and Tools
@@ -63,27 +65,25 @@ Avoids cross-contamination allows cross-fertilization
 | People are opposed to change | Be allowed to fail & explore        |   
 
 ---
-## HOW DOES IT WORK? - The problems
-The real problem is balance 
+## HOW DOES IT WORK? 
+There is noe simple soulution
 
 ![Image of balancing the ambidextrous units](balance_units.jpg)
 
 ---
 
 ## What is then needed to succeed in being ambidextrous? 
+
 * The right setup trough separate units in the organization 
 * The right leaders with mindset and skills to lead both teams 
 * A team with the right training and motivation to invent
 * Balancing the exploration and exploitation
+* Well communicated strategy
 
 ---
 ## The benefits if you succsed 
 
 ![Image of Adaptability, Avoid stagnation & Long term profit  ](adaptability.jpg)
-
-* Adaptability 
-* Avoid stagnation 
-* Long term profit 
 
 ---
 ## Recap 
@@ -95,6 +95,6 @@ The real problem is balance
 
 ---
 
-> Sources can be found in my [blog on Ambidextrous organizations](https://github.com/amandabrastad/2022ws_do_ab/blob/main/bl_blog_do.md)
+> Sources can be found in my blog: [Ambidextrous organizations](https://github.com/amandabrastad/2022ws_do_ab/blob/main/bl_blog_do.md)
 
 
