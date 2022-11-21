@@ -7,9 +7,9 @@ by Amanda Brastad
 ---
 ## Introduction 
 
-1. Why is Ambidextrous organizations interesting?
+1. Why are Ambidextrous organizations interesting?
 2. What is organizational ambidexterity? 
-3. How does ambidextrous organizations work? 
+3. How do ambidextrous organizations work? 
 
 ---
 ## WHY IS IT INTERESTING?
@@ -26,7 +26,7 @@ Ambidexterity is the recipe for success
 ![Image of Apple being Ambidextrous](apple_beeing_ambidex.jpg)
 
 ---
-## WHAT IS Ambidextrous organizations?
+## WHAT are Ambidextrous organizations?
 
 * Attending to your current products at the same time as you are innovating for the future 
 * No company succeeds forever, if you are not the one to make the product that kills your company, somebody else will!   
@@ -50,8 +50,8 @@ Avoids cross-contamination allows cross-fertilization
 ## HOW DOES IT WORK? - The problems
 
 * Innovators dilemma 
-* Challening to lead both units 
-* Traning and development
+* Challenging to lead both units 
+* Training and development
 * Disagreement 
 
 ---
@@ -59,14 +59,14 @@ Avoids cross-contamination allows cross-fertilization
 
 | **Problems**                 | **Tools**                           | 
 | :---------------------------:|:-----------------------------------:| 
-| Conflict of resourses        | Balance communication               | 
+| Conflict of resources        | Balance communication               | 
 | Risk of contamination        | Right people in the right place     | 
-| Expensieve                   | Right resourses in the right plase  |   
+| Expensive                    | Right resources in the right place  |   
 | People are opposed to change | Be allowed to fail & explore        |   
 
 ---
 ## HOW DOES IT WORK? 
-There is noe simple soulution
+There is no simple solution
 
 ![Image of balancing the ambidextrous units](balance_units.jpg)
 
@@ -74,24 +74,23 @@ There is noe simple soulution
 
 ## What is then needed to succeed in being ambidextrous? 
 
-* The right setup trough separate units in the organization 
+* The right setup through separate units in the organization 
 * The right leaders with mindset and skills to lead both teams 
 * A team with the right training and motivation to invent
 * Balancing the exploration and exploitation
 * Well communicated strategy
 
 ---
-## The benefits if you succsed 
+## The benefits if you succeed 
 
 ![Image of Adaptability, Avoid stagnation & Long term profit  ](adaptability.jpg)
 
 ---
 ## Recap 
 
-* Short answer for each question! 
-1. Why is Ambidextrous organizations interesting
+1. Why are Ambidextrous organizations interesting
 2. What is organizational ambidexterity? 
-3. How does ambidextrous organizations work? 
+3. How do ambidextrous organizations work? 
 
 ---
 
