@@ -53,6 +53,16 @@ Avoids cross-contamination allows cross-fertilization
 * Challening to lead both units 
 
 ---
+## HOW DOES IT WORK? - The problems and Tools
+
+| **Problems**                 | **Tools**                           | 
+| :---------------------------:|:-----------------------------------:| 
+| Conflict of resourses        | Balance communication               | 
+| Risk of contamination        | Right people in the right place     | 
+| Expensieve                   | Right resourses in the right plase  |   
+| People are opposed to change | Be allowed to fail & explore        |   
+
+---
 ## HOW DOES IT WORK? - The problems
 The real problem is balance 
 
@@ -68,6 +78,8 @@ The real problem is balance
 
 ---
 ## The benefits if you succsed 
+
+![Image of Adaptability, Avoid stagnation & Long term profit  ](adaptability.jpg)
 
 * Adaptability 
 * Avoid stagnation 
