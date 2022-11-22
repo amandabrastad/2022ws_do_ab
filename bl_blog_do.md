@@ -8,7 +8,7 @@ We have many examples of organizations that were once large and powerful, who ha
 
 What was the biggest mistake of these and many other companies, or what could they have done to succeed? One road to success is managing to be an Ambidextrous organization. 
 
-## What is an Ambidextrous organizations? 
+## What are Ambidextrous organizations? 
 
 The word ambidextrous itself means being able to use both hands equally well(1). For an organization to be an ambidextrous organization it means being able to attend to their current products at the same time as they are innovating for the future(2). No company succeeds forever, if you are not the one to make the product that kills your company, somebody else will!   
 
