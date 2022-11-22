@@ -88,7 +88,7 @@ There is no simple solution
 ---
 ## Recap 
 
-1. Why are Ambidextrous organizations interesting
+1. Why are Ambidextrous organizations interesting?
 2. What is organizational ambidexterity? 
 3. How do ambidextrous organizations work? 
 
